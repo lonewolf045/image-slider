@@ -1,7 +1,10 @@
 <h1>@lonewolf045/imageslider</h1>
 
 
-[![npm (scoped)](https://img.shields.io/npm/v/imageslider?style=for-the-badge)](https://github.com/lonewolf045/image-slider)
+[![npm (scoped)](https://img.shields.io/npm/v/@lonewolf045/image-slider?style=for-the-badge)](https://github.com/lonewolf045/image-slider)
+[![npm (scoped with tag)](https://img.shields.io/npm/v/@lonewolf045/image-slider/latest?style=for-the-badge)](https://github.com/lonewolf045/image-slider)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/lonewolf045/image-slider?style=for-the-badge)](https://github.com/lonewolf045/image-slider)
+
 
 <p>I have made a package to add an image slider if it is provided with a container division and an array containing image urls. Example is given below</p>
 

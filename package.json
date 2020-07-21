@@ -1,0 +1,24 @@
+{
+  "name": "@lonewolf045/image-slider",
+  "version": "1.0.1",
+  "description": "It is a package used to generate Image Slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lonewolf045/image-slider.git"
+  },
+  "keywords": [
+    "image-slider",
+    "npm",
+    "lonewolf045"
+  ],
+  "author": "Kushagra Agarwal <kushagracool490@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lonewolf045/image-slider/issues"
+  },
+  "homepage": "https://github.com/lonewolf045/image-slider#readme"
+}
