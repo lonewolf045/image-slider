@@ -1,6 +1,6 @@
 {
   "name": "@lonewolf045/image-slider",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "It is a package used to generate Image Slider",
   "main": "index.js",
   "scripts": {
